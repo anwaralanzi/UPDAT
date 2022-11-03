@@ -16,16 +16,19 @@ function Create () {
         fName,
         lName
     }).then(res =>{
+        
+    
         console.log(res)
+
     })
     navigate('Githw')
 
    }
 
 
-function storege (){
-    navigate('Localstorege')
-}
+// function storege (){
+//     navigate('Localstorege')
+// }
 
 
   return (

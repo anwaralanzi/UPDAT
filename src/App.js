@@ -6,6 +6,7 @@ import Post from './component/Post';
 import Githw from './component/Githw';
 import Na from './component/Na';
 import Localstorege from './component/Localstorege';
+
 // import { Route, Routes } from 'react-router-dom';
 // import Rot from './component/Rot';
 function App() {
